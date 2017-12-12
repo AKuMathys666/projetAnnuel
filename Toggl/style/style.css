@@ -1,0 +1,52 @@
+/*.nav-stacked{
+    float : left;
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    border-radius: 4px;
+}
+
+.navbar-style{
+    max-height: 100%;
+    max-width: 100%;
+}
+*/
+
+.n1{
+    color: grey;
+    /*margin-top: 5%;
+    margin-left: 7%;*/
+}
+/*
+.right-style{
+    margin-left: 25%;
+    width: 1011px;
+    max-height: 50%;
+    max-width: 75%;
+}
+/*
+.img-right-style{
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+    min-width: 100%; 
+    min-height: 100%; 
+    vertical-align: middle;
+}
+*/
+body{
+    background-image: url(../media/zwartevilt/zwartevilt_@2X.jpg);
+}
+.carousel-indicators-style{
+    text-align: center;
+}
+.img-responsive imgslide-css{
+    max-height: 500px;
+    text-align: center;
+}
+
+.carousel-inner
+{
+	margin-left: 3%;
+}
